@@ -1,5 +1,5 @@
-title: Your awesome title
-author:
+title: Compact Urban Work Life
+author: Eason
   name: GitHub User
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -11,6 +11,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+theme: minima
 minima:
   date_format: "%b %-d, %Y"
 
@@ -53,7 +54,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+
 
 plugins:
  - jekyll-feed
